@@ -1,0 +1,2 @@
+# celebs
+themes and plugin
